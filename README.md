@@ -8,4 +8,4 @@ This repository contains the simulation of a quantum optical shallow network imp
 </a> <br>
   
 Contributors: Angela Rosy Morgillo [@MorgilloR](https://github.com/MorgilloR) and Simone Roncallo [@simoneroncallo](https://github.com/simoneroncallo) <br>
-Reference: Simone Roncallo, Angela Rosy Morgillo, Chiara Macchiavello, Lorenzo Maccone and Seth Lloyd <i>“Quantum optical shallow networks”</i> (In preparation, 2025)
+Reference: Simone Roncallo, Angela Rosy Morgillo, Chiara Macchiavello, Lorenzo Maccone and Seth Lloyd <i>“Quantum optical shallow networks”</i> (2025)
